@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/iscsitarget/code/!svn/ver/496/trunk/kernel
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/iscsitarget/code/!svn/ver/495/trunk/kernel/event.c
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/457/trunk/kernel/session.c
+END
+file-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/494/trunk/kernel/file-io.c
+END
+digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/iscsitarget/code/!svn/ver/2/trunk/kernel/digest.h
+END
+nthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/470/trunk/kernel/nthread.c
+END
+target.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/491/trunk/kernel/target.c
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/353/trunk/kernel/compat.h
+END
+persist.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/490/trunk/kernel/persist.c
+END
+iscsi_dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/iscsitarget/code/!svn/ver/480/trunk/kernel/iscsi_dbg.h
+END
+tio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/479/trunk/kernel/tio.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/456/trunk/kernel/Makefile
+END
+conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/iscsitarget/code/!svn/ver/401/trunk/kernel/conn.c
+END
+persist.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/476/trunk/kernel/persist.h
+END
+wthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/485/trunk/kernel/wthread.c
+END
+block-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/iscsitarget/code/!svn/ver/494/trunk/kernel/block-io.c
+END
+param.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/iscsitarget/code/!svn/ver/429/trunk/kernel/param.c
+END
+target_disk.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/iscsitarget/code/!svn/ver/493/trunk/kernel/target_disk.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/496/trunk/kernel/config.c
+END
+ua.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/iscsitarget/code/!svn/ver/457/trunk/kernel/ua.c
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/480/trunk/kernel/volume.c
+END
+iotype.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/448/trunk/kernel/iotype.c
+END
+iscsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/iscsitarget/code/!svn/ver/480/trunk/kernel/iscsi.c
+END
+iscsi_hdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/iscsitarget/code/!svn/ver/446/trunk/kernel/iscsi_hdr.h
+END
+iotype.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/303/trunk/kernel/iotype.h
+END
+iscsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/iscsitarget/code/!svn/ver/479/trunk/kernel/iscsi.h
+END
+digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/487/trunk/kernel/digest.c
+END
+null-io.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/353/trunk/kernel/null-io.c
+END

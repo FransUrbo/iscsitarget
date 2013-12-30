@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/iscsitarget/code/!svn/ver/489/trunk/usr
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/210/trunk/usr/misc.h
+END
+param.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/iscsitarget/code/!svn/ver/475/trunk/usr/param.c
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/326/trunk/usr/sha1.h
+END
+ietadm.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/307/trunk/usr/ietadm.c
+END
+plain.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/iscsitarget/code/!svn/ver/473/trunk/usr/plain.c
+END
+isns_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/59/trunk/usr/isns_proto.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/iscsitarget/code/!svn/ver/475/trunk/usr/param.h
+END
+ietadm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/307/trunk/usr/ietadm.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/iscsitarget/code/!svn/ver/465/trunk/usr/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/372/trunk/usr/config.h
+END
+chap.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/326/trunk/usr/chap.c
+END
+isns.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/472/trunk/usr/isns.c
+END
+iscsi_hdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/256/trunk/usr/iscsi_hdr.h
+END
+iscsid.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/489/trunk/usr/iscsid.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/iscsitarget/code/!svn/ver/219/trunk/usr/log.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/iscsitarget/code/!svn/ver/401/trunk/usr/event.c
+END
+ctldev.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/309/trunk/usr/ctldev.c
+END
+iscsid.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/309/trunk/usr/iscsid.h
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/iscsitarget/code/!svn/ver/438/trunk/usr/session.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/iscsitarget/code/!svn/ver/325/trunk/usr/message.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/iscsitarget/code/!svn/ver/341/trunk/usr/md5.c
+END
+ietd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/394/trunk/usr/ietd.c
+END
+target.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/421/trunk/usr/target.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/iscsitarget/code/!svn/ver/326/trunk/usr/md5.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/407/trunk/usr/Makefile
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/341/trunk/usr/sha1.c
+END
+conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/401/trunk/usr/conn.c
+END

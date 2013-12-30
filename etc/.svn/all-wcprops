@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/iscsitarget/code/!svn/ver/429/trunk/etc
+END
+initiators.allow
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/iscsitarget/code/!svn/ver/230/trunk/etc/initiators.allow
+END
+initiators.deny
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/iscsitarget/code/!svn/ver/114/trunk/etc/initiators.deny
+END
+targets.allow
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/iscsitarget/code/!svn/ver/231/trunk/etc/targets.allow
+END
+ietd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/iscsitarget/code/!svn/ver/429/trunk/etc/ietd.conf
+END

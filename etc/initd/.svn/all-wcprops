@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/iscsitarget/code/!svn/ver/410/trunk/etc/initd
+END
+initd.gentoo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/iscsitarget/code/!svn/ver/374/trunk/etc/initd/initd.gentoo
+END
+initd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/iscsitarget/code/!svn/ver/410/trunk/etc/initd/initd
+END
+initd.debian
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/iscsitarget/code/!svn/ver/374/trunk/etc/initd/initd.debian
+END
+initd.redhat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/iscsitarget/code/!svn/ver/343/trunk/etc/initd/initd.redhat
+END

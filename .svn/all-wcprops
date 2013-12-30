@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/p/iscsitarget/code/!svn/ver/496/trunk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/iscsitarget/code/!svn/ver/431/trunk/ChangeLog
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/iscsitarget/code/!svn/ver/419/trunk/RELEASE_NOTES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/iscsitarget/code/!svn/ver/2/trunk/COPYING
+END
+iscsitarget.spec
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/iscsitarget/code/!svn/ver/419/trunk/iscsitarget.spec
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/iscsitarget/code/!svn/ver/326/trunk/README
+END
+README.vmware
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/iscsitarget/code/!svn/ver/77/trunk/README.vmware
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/iscsitarget/code/!svn/ver/496/trunk/Makefile
+END
+README.mcs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/iscsitarget/code/!svn/ver/328/trunk/README.mcs
+END
+README.initiators
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/iscsitarget/code/!svn/ver/231/trunk/README.initiators
+END
+dkms.conf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/iscsitarget/code/!svn/ver/496/trunk/dkms.conf
+END
